@@ -25,7 +25,7 @@ public class Myswaggerconfig {
 
 	@SuppressWarnings("deprecation")
 	private ApiInfo metadata() {
-		return new ApiInfoBuilder().title("Capgemini").description("API reference guide for developers").termsOfServiceUrl("https://www.javacodegeeks.com/").contact("Batra, Yatin").version("1.0").build();	
+		return new ApiInfoBuilder().title("HealthModule").description("API reference guide for developers").termsOfServiceUrl("https://www.javacodegeeks.com/").contact("Batra, Yatin").version("1.0").build();	
 	}
 }
 
